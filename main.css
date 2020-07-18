@@ -592,6 +592,10 @@ input[type="submit"]:hover{
      }
 }
 @media screen and (max-width: 600px){
+    body{
+        background-image: url("images/sitebg.jpg");
+        background-size: cover;
+    }
     .landing-text h1{
         font-size: 8rem;
     }
